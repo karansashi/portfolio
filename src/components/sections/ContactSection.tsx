@@ -7,7 +7,7 @@ const socialLinks = [
   { name: "LinkedIn", icon: Linkedin, url: "#", color: "hover:text-blue-500" },
   { name: "GitHub", icon: Github, url: "#", color: "hover:text-gray-400" },
   { name: "Instagram", icon: Instagram, url: "#", color: "hover:text-pink-500" },
-  { name: "Twitter", icon: Twitter, url: "#", color: "hover:text-sky-500" },
+  { name: "Whatsapp", icon: Whatsapp, url: "#", color: "hover:text-sky-500" },
   { name: "YouTube", icon: Youtube, url: "#", color: "hover:text-red-500" },
 ];
 
