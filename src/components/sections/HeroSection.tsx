@@ -75,7 +75,6 @@ const HeroSection = ({ onNavigate }: HeroSectionProps) => {
             >
               <Download className="w-4 h-4" />
               Download CV 
-              link:"https://drive.google.com/file/d/1QjtScVb4ShsgGUbDJxTXyjYu8StRQQj4/view",
             </motion.a>
           </motion.div>
         </motion.div>
