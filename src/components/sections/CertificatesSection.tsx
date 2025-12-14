@@ -2,6 +2,14 @@ import { motion } from "framer-motion";
 import { ArrowRight, Award, Calendar, CheckCircle } from "lucide-react";
 
 const certificates = [
+   {
+    title: "UI/UX Design Course with AI",
+    issuer: "Internshala",
+    status: "Present",
+    description: "Trained through Google UX Professional Certificate, applying industry-ready, user-centered design.",
+    color: "from-blue-500 to-cyan-500",
+    
+  },
   {
     title: "Google Ux Professional Certificate",
     issuer: "Coursera",
