@@ -24,7 +24,7 @@ const projects = [
     icon: Layout,
     tags: ["Research Poster", "Psychology Research", "Poster Design"],
     color: "from-rose-500 to-red-500",
-    link:"https://drive.google.com/drive/u/1/folders/1glCygmJZCWo9PHgz5tcgQLb36Np5wfgY",
+    link:"https://drive.google.com/drive/u/1/folders/1b4LKSp02ri3bFA1-sCnlezpUB0cE3xB5",
   },
   {
     title: "Ooty Taxi Booking Website",
