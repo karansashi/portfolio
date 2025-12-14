@@ -68,13 +68,14 @@ const HeroSection = ({ onNavigate }: HeroSectionProps) => {
               <ArrowRight className="w-4 h-4 group-hover:translate-x-1 transition-transform" />
             </motion.button>
             <motion.a
-              href="#"
+              href="https://drive.google.com/file/d/1QjtScVb4ShsgGUbDJxTXyjYu8StRQQj4/view"
               className="flex items-center gap-2 px-6 py-3 glass-card rounded-xl font-medium text-foreground hover:bg-muted/50 transition-all"
               whileHover={{ scale: 1.02 }}
               whileTap={{ scale: 0.98 }}
             >
               <Download className="w-4 h-4" />
-              Download CV
+              Download CV 
+              link:"https://drive.google.com/file/d/1QjtScVb4ShsgGUbDJxTXyjYu8StRQQj4/view",
             </motion.a>
           </motion.div>
         </motion.div>
