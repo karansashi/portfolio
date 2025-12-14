@@ -7,12 +7,14 @@ const experiences = [
     role: "Team Leader - UI/UX Design",
     company: "Uptoskills",
     description: "Led design teams during internship projects, coordinating cross-functional collaboration and mentoring peers.",
+    link: "https://drive.google.com/drive/u/1/folders/1vEoPiPZHJ5EXAQPTK3qmJ7haZCkfibzq",
   },
   {
     period: "Jan 2025 - Feb 2025",
     role: "UI/UX Designer",
     company: "Mohans Art",
     description: "Designed responsive e-commerce website for furniture brand using UX research and competitive analysis.",
+    link:"",
   },
   {
     period: "Sep 2022 - Oct 2022",
