@@ -5,8 +5,8 @@ const certificates = [
    {
     title: "UI/UX Design Course with AI",
     issuer: "Internshala",
-    status: "Present",
     description: "Trained through Google UX Professional Certificate, applying industry-ready, user-centered design.",
+    date: "01/10/2025 - Present",
     color: "from-blue-500 to-cyan-500",
     
   },
