@@ -4,7 +4,7 @@ import { ExternalLink, Figma, Layout, ShoppingCart, Bus, BookOpen } from "lucide
 const projects = [
   {
     title: "E-commerce Website Design",
-    description: "Designed a user-focused e-commerce website using competitive analysis to optimize user journeys and improve checkout flow.",
+    description: "Designed a user-focused e-commerce website using competitive analysis to optimize user journeys and checkout flow.",
     icon: ShoppingCart,
     tags: ["UI/UX", "Figma", "E-commerce"],
     color: "from-purple-500 to-pink-500",
@@ -12,7 +12,7 @@ const projects = [
   },
   {
     title: "Mohan's Art E-Commerce website",
-    description: "Redesigned a bus booking website using user research and survey analysis to identify usability issues and optimize user flows.",
+    description: "Redesigned a bus booking website using user research and survey analysis to identify issues and optimize flows.",
     icon: Bus,
     tags: ["UX Research", "Wireframing", "Accessibility"],
     color: "from-blue-500 to-cyan-500",
@@ -20,7 +20,7 @@ const projects = [
   },
   {
     title: "Blog Website Redesign",
-    description: "Created wireframes and high-fidelity UI designs to improve readability, navigation clarity, and responsive design.",
+    description: "Created wireframes and high-fidelity UI designs to improve readability, navigation, and responsive design.",
     icon: BookOpen,
     tags: ["UI Design", "Content Strategy", "Responsive"],
     color: "from-green-500 to-emerald-500",
@@ -28,7 +28,7 @@ const projects = [
   },
   {
     title: "Lead Generation UX Design",
-    description: "Antique furniture e-commerce platform showcasing rare pieces, with elegant design, intuitive navigation, and seamless checkout process online.",
+    description: "Antique furniture e-commerce platform showcasing rare pieces, elegant design, intuitive navigation.",
     icon: Layout,
     tags: ["Conversion", "Lead Gen", "User Research"],
     color: "from-orange-500 to-amber-500",
@@ -44,7 +44,7 @@ const projects = [
   },
   {
     title: "Ooty Taxi Booking Website",
-    description: "Trusted cab booking service for Nilgiris, featuring real-time tracking, transparent fares, and seamless WhatsApp booking, designed with local insights and owner collaboration.",
+    description: "Trusted cab booking service for Nilgiris, featuring real-time tracking, transparent fares, seamless WhatsApp booking.",
     icon: ShoppingCart,
     tags: ["E-commerce", "Branding", "Mobile"],
     color: "from-rose-500 to-red-500",
