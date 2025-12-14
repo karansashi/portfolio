@@ -157,7 +157,7 @@ const ContactSection = () => {
             {[
               { icon: Mail, label: "Email", value: "karansashi2003@gmail.com" },
               { icon: Phone, label: "Phone", value: "+91 6381004047" },
-              { icon: MapPin, label: "Location", value: "Bangalore, India" },
+              { icon: MapPin, label: "Location", value: "Udhagamandalam, India" },
             ].map((item, index) => (
               <motion.div
                 key={item.label}
