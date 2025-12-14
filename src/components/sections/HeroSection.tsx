@@ -5,7 +5,7 @@ const stats = [
   { value: "10+", label: "Projects Completed" },
   { value: "UI/UX", label: "Expert" },
   { value: "3+", label: "Internships" },
-  { value: "4+", label: "Certifications" },
+  { value: "6+", label: "Certifications" },
 ];
 
 interface HeroSectionProps {
