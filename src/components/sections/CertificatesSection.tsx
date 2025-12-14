@@ -4,6 +4,7 @@ import { ArrowRight, Award, Calendar, CheckCircle } from "lucide-react";
 const certificates = [
    {
     title: "UI/UX Design Course with AI",
+    status: "On Process",
     issuer: "Internshala",
     description: "Trained through Google UX Professional Certificate, applying industry-ready, user-centered design.",
     date: "01/10/2025 - Present",
