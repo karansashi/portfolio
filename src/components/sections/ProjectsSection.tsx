@@ -4,7 +4,7 @@ import { ExternalLink, Figma, Layout, ShoppingCart, Bus, BookOpen } from "lucide
 const projects = [
   {
     title: "E-commerce Website Design",
-    description: "Designed a user-focused e-commerce website using competitive analysis to optimize user journeys and checkout flow.",
+    description: "Designed an e-commerce website using competitive analysis to optimize user journeys and checkout flow.",
     icon: ShoppingCart,
     tags: ["UI/UX", "Figma", "E-commerce"],
     color: "from-purple-500 to-pink-500",
@@ -12,7 +12,7 @@ const projects = [
   },
   {
     title: "Mohan's Art E-Commerce website",
-    description: "Designed an elegant e-commerce website for an antique furniture brand, emphasizing heritage aesthetics, intuitive navigation, and a seamless online purchasing experience.",
+    description: "Designed an elegant e-commerce website for an antique furniture brand, ensuring a seamless online purchasing experience.",
     icon: Bus,
     tags: ["UX Research", "Wireframing", "Accessibility"],
     color: "from-blue-500 to-cyan-500",
@@ -28,7 +28,7 @@ const projects = [
   },
   {
     title: "Ooty Taxi Booking Website",
-    description: "Trusted cab booking service for Nilgiris, featuring real-time tracking, transparent fares, seamless WhatsApp booking.",
+    description: "Trusted cab booking service for Nilgiris, featuring real-time tracking, transparent fares, seamless booking.",
     icon: ShoppingCart,
     tags: ["E-commerce", "Branding", "Mobile"],
     color: "from-rose-500 to-red-500",
