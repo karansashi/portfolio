@@ -12,7 +12,7 @@ const projects = [
   },
   {
     title: "Mohan's Art E-Commerce website",
-    description: "Redesigned a bus booking website using user research and survey analysis to identify issues and optimize flows.",
+    description: "Designed an elegant e-commerce website for an antique furniture brand, emphasizing heritage aesthetics, intuitive navigation, and a seamless online purchasing experience.",
     icon: Bus,
     tags: ["UX Research", "Wireframing", "Accessibility"],
     color: "from-blue-500 to-cyan-500",
