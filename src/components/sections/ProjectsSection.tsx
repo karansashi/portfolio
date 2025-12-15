@@ -12,7 +12,7 @@ const projects = [
   },
   {
     title: "Mohan's Art E-Commerce website",
-    description: "Designed an elegant e-commerce website for an antique furniture brand, ensuring a seamless online purchasing experience.",
+    description: "Designed an elegant e-commerce website for an antique furniture brand, ensuring seamless online purchasing.",
     icon: Bus,
     tags: ["UX Research", "Wireframing", "Accessibility"],
     color: "from-blue-500 to-cyan-500",
