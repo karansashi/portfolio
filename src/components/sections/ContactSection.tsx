@@ -1,13 +1,13 @@
 import { motion } from "framer-motion";
 import { useState } from "react";
-import { Mail, Phone, MapPin, Send, Linkedin, Github, Instagram, Twitter, Youtube, CheckCircle } from "lucide-react";
+import { Mail, Phone, MapPin, Send, Linkedin, Github, Instagram, X, Youtube, CheckCircle } from "lucide-react";
 import { useToast } from "@/hooks/use-toast";
 
 const socialLinks = [
   { name: "LinkedIn", icon: Linkedin, url: "#", color: "hover:text-blue-500" },
   { name: "GitHub", icon: Github, url: "#", color: "hover:text-gray-400" },
   { name: "Instagram", icon: Instagram, url: "#", color: "hover:text-pink-500" },
-  { name: "Twitter", icon: Twitter, url: "#", color: "hover:text-sky-500" },
+  { name: "X", icon: X, url: "#", color: "hover:text-sky-500" },
   { name: "YouTube", icon: Youtube, url: "#", color: "hover:text-red-500" },
 ];
 
